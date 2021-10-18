@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Nagozo/static/css/main.00f335a0.chunk.css",
+    "main.js": "/Nagozo/static/js/main.3fa6f860.chunk.js",
+    "main.js.map": "/Nagozo/static/js/main.3fa6f860.chunk.js.map",
+    "runtime-main.js": "/Nagozo/static/js/runtime-main.fd410887.js",
+    "runtime-main.js.map": "/Nagozo/static/js/runtime-main.fd410887.js.map",
+    "static/css/2.40caa4e1.chunk.css": "/Nagozo/static/css/2.40caa4e1.chunk.css",
+    "static/js/2.b95dd2e5.chunk.js": "/Nagozo/static/js/2.b95dd2e5.chunk.js",
+    "static/js/2.b95dd2e5.chunk.js.map": "/Nagozo/static/js/2.b95dd2e5.chunk.js.map",
+    "index.html": "/Nagozo/index.html",
+    "static/css/2.40caa4e1.chunk.css.map": "/Nagozo/static/css/2.40caa4e1.chunk.css.map",
+    "static/css/main.00f335a0.chunk.css.map": "/Nagozo/static/css/main.00f335a0.chunk.css.map",
+    "static/js/2.b95dd2e5.chunk.js.LICENSE.txt": "/Nagozo/static/js/2.b95dd2e5.chunk.js.LICENSE.txt",
+    "static/media/logo.61b13070.png": "/Nagozo/static/media/logo.61b13070.png",
+    "static/media/styles.css": "/Nagozo/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd410887.js",
+    "static/css/2.40caa4e1.chunk.css",
+    "static/js/2.b95dd2e5.chunk.js",
+    "static/css/main.00f335a0.chunk.css",
+    "static/js/main.3fa6f860.chunk.js"
+  ]
+}
